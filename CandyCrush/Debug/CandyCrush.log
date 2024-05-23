@@ -1,0 +1,9 @@
+﻿  CandyCrush.cpp
+C:\Users\Absar\source\repos\CandyCrush\CandyCrush\Functions.h(369,10): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+C:\Users\Absar\source\repos\CandyCrush\CandyCrush\Functions.h(377,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Absar\source\repos\CandyCrush\CandyCrush\Functions.h(509,7): warning C4101: 'Matches': unreferenced local variable
+C:\Users\Absar\source\repos\CandyCrush\CandyCrush\Functions.h(802,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Absar\source\repos\CandyCrush\CandyCrush\CandyCrush.cpp(41,21): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+C:\Users\Absar\source\repos\CandyCrush\CandyCrush\CandyCrush.cpp(52,22): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+C:\Users\Absar\source\repos\CandyCrush\CandyCrush\CandyCrush.cpp(7,42): warning C4101: 'Matches': unreferenced local variable
+  CandyCrush.vcxproj -> C:\Users\Absar\source\repos\CandyCrush\Debug\CandyCrush.exe
